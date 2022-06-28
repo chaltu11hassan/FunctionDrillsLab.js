@@ -6,7 +6,6 @@
   feel free to practice with any syntax.
 */
 
-
 ////////////////// PROBLEM 1 ////////////////////
 /*
   Create a function called helloWorld which simply console logs 'Hello, World!'
@@ -40,9 +39,6 @@ const JsNinja = () => {
 }
 
 console.log(JsNinja()); // log the function
-
-
-
 
 
 ////////////////// PROBLEM 3 ////////////////////
@@ -175,9 +171,6 @@ console.log('arrow')
 */
 
 const exclaimThree = str => `${str.toUpperCase()} !!!`
-
-
-
 
 ////////////////// PROBLEM 9 ////////////////////
 
